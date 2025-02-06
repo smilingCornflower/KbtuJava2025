@@ -1,0 +1,1 @@
+This repository is intended for educational purposes at the university. Here are labs, projects and SIS works.
